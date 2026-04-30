@@ -1,0 +1,155 @@
+# 集合
+
+## 定义
+
+![77752592587](DISCRETEMATH_W4.assets/1777525925873.png)
+
+
+
+## 如何描述?
+
+![77752597784](DISCRETEMATH_W4.assets/1777525977846.png)
+
+
+
+## 一些常用的集合
+
+![77752600261](DISCRETEMATH_W4.assets/1777526002618.png)
+
+
+
+## 有限集与无限集
+
+![77752601781](DISCRETEMATH_W4.assets/1777526017814.png)
+
+
+
+## 区间
+
+![77752604029](DISCRETEMATH_W4.assets/1777526040296.png)
+
+
+
+## 集合的关系
+
+![77752606173](DISCRETEMATH_W4.assets/1777526061736.png)
+
+![77752614856](DISCRETEMATH_W4.assets/1777526148569.png)
+
+## 集合的一些性质
+
+![77752750224](DISCRETEMATH_W4.assets/1777527502245.png)
+
+### 子集的性质
+
+![77752753311](DISCRETEMATH_W4.assets/1777527533117.png)
+
+### 相同集合的性质
+
+![77752752164](DISCRETEMATH_W4.assets/1777527521643.png)
+
+
+
+## 幂集
+
+![77752750996](DISCRETEMATH_W4.assets/1777527509964.png)
+
+
+
+### 幂集的元素个数
+
+![77752766186](DISCRETEMATH_W4.assets/1777527661861.png)
+
+
+
+
+
+## 笛卡尔积
+
+![77752763819](DISCRETEMATH_W4.assets/1777527638191.png)
+
+### 例子
+
+![77752791064](DISCRETEMATH_W4.assets/1777527910643.png)
+
+## 注意
+
+![77752793084](DISCRETEMATH_W4.assets/1777527930845.png)
+
+
+
+### 笛卡尔积的大小
+
+
+
+### 多重笛卡尔积
+
+#### 例子
+
+![77752796393](DISCRETEMATH_W4.assets/1777527963938.png)
+
+![77752797899](DISCRETEMATH_W4.assets/1777527978997.png)
+
+![77752804409](DISCRETEMATH_W4.assets/1777528044092.png)
+
+
+
+## 笛卡尔积的性质
+
+![77752808762](DISCRETEMATH_W4.assets/1777528087624.png)
+
+
+
+![77752825930](DISCRETEMATH_W4.assets/1777528259302.png)
+
+
+
+### 总结公式
+
+![77727318801](C:\Users\叶健钦\AppData\Local\Temp\1777273188015.png)
+
+
+
+##  并集
+
+![77752828403](DISCRETEMATH_W4.assets/1777528284030.png)
+
+
+
+## 交集
+
+![77752829598](DISCRETEMATH_W4.assets/1777528295987.png)
+
+
+
+## 交集并集的card的大小的公式
+
+![77752831060](DISCRETEMATH_W4.assets/1777528310601.png)
+
+
+
+## 差集
+
+![77752832518](DISCRETEMATH_W4.assets/1777528325180.png)
+
+
+
+
+
+## 全集
+
+全集 U 是包含所有被考虑对象的集合。
+
+## 补集
+
+![77752835140](DISCRETEMATH_W4.assets/1777528351400.png)
+
+
+
+## 逻辑里的demorgan
+
+![77752836825](DISCRETEMATH_W4.assets/1777528368252.png)
+
+
+
+![77738125147](DISCRETEMATH_W4.assets/1777381251474.png)
