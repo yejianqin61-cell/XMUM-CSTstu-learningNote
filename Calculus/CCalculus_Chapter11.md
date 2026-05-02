@@ -436,7 +436,299 @@ a1+a2+a5+a4+a3+a20+a6+a7+a15+…
 
 
 
+![77769203036](CCalculus_Chapter11.assets/1777692030367.png)
 
 
 
+记住!收敛区间是哪个!!
+
+#### 例题1
+
+![77769252535](CCalculus_Chapter11.assets/1777692525359.png)
+
+#### 例题2
+
+![77769261274](CCalculus_Chapter11.assets/1777692612741.png)
+
+![77769262465](CCalculus_Chapter11.assets/1777692624656.png)
+
+![77769278700](CCalculus_Chapter11.assets/1777692787005.png)
+
+![77769280147](CCalculus_Chapter11.assets/1777692801476.png)
+
+![77769282505](CCalculus_Chapter11.assets/1777692825054.png)
+
+
+
+## 逐项微分和积分定理
+
+![77769321508](CCalculus_Chapter11.assets/1777693215085.png)
+
+**关键结论:**
+
+​			微分和积分后的新幂级数，**收敛半径不变**（但端点收敛性可能改变）
+
+
+
+### 关键例题
+
+![77769384001](CCalculus_Chapter11.assets/1777693840012.png)找出它的收敛半径,找出封闭形式(也就是用一个简单的初等函数表达式来表示这个无穷级数的和)
+
+#### 积分法
+
+![77769405392](CCalculus_Chapter11.assets/1777694053920.png)
+
+所以说,先积分,再微分
+
+
+
+
+
+## 另一个经典级数
+
+![77769434472](CCalculus_Chapter11.assets/1777694344720.png)
+
+
+
+#### 微分法
+
+
+
+![77769436517](CCalculus_Chapter11.assets/1777694365172.png)
+
+
+
+![77769453795](CCalculus_Chapter11.assets/1777694537957.png)
+
+
+
+#### 例题ln(1+x)的幂级数
+
+![77769472122](CCalculus_Chapter11.assets/1777694721221.png)
+
+![77769475951](CCalculus_Chapter11.assets/1777694759518.png)
+
+
+
+
+
+**那么其实可以利用前面一题的结论,换元即可**
+
+
+
+#### 例题 tan^-1x的幂级数
+
+![77769525072](CCalculus_Chapter11.assets/1777695250729.png)
+
+![77769526090](CCalculus_Chapter11.assets/1777695260903.png)
+
+![77769558863](CCalculus_Chapter11.assets/1777695588637.png)
+
+![77769559862](CCalculus_Chapter11.assets/1777695598620.png)
+
+![77769602014](CCalculus_Chapter11.assets/1777696020142.png)
+
+#### 例题:e^x的幂级数
+
+![77769644941](CCalculus_Chapter11.assets/1777696449411.png)
+
+找出 a formula for the sum of the series
+
+![77769657988](CCalculus_Chapter11.assets/1777696579886.png)
+
+![77769658855](CCalculus_Chapter11.assets/1777696588552.png)
+
+![77769676250](CCalculus_Chapter11.assets/1777696762501.png)
+
+#### 例题:∫1/(1+x^7)  dx 表示为幂级数
+
+![77769731543](CCalculus_Chapter11.assets/1777697315436.png)
+
+![77769735649](CCalculus_Chapter11.assets/1777697356498.png)
+
+
+
+#### 例题:误差估计,重要
+
+![77769738748](CCalculus_Chapter11.assets/1777697387489.png)
+
+![77769739336](CCalculus_Chapter11.assets/1777697393369.png)
+
+## 误差控制(交错级数)
+
+
+
+![77769785457](CCalculus_Chapter11.assets/1777697854578.png)
+
+![77769787117](CCalculus_Chapter11.assets/1777697871178.png)
+
+
+
+
+
+## 泰勒级数
+
+### 泰勒级数的系数
+
+
+
+![77769793391](CCalculus_Chapter11.assets/1777697933917.png)
+
+
+
+![77769794148](CCalculus_Chapter11.assets/1777697941485.png)
+
+
+
+### 泰勒级数Taylor Series）
+
+![77769810810](CCalculus_Chapter11.assets/1777698108107.png)
+
+#### 麦克劳林级数（Maclaurin Series）
+
+![77769813163](CCalculus_Chapter11.assets/1777698131638.png)
+
+
+
+#### 例题:e^x的麦克劳林级数
+
+![77769816428](CCalculus_Chapter11.assets/1777698164283.png)
+
+
+
+
+
+## 泰勒多项式与余项
+
+![77769818967](CCalculus_Chapter11.assets/1777698189677.png)
+
+![77769820417](CCalculus_Chapter11.assets/1777698204174.png)
+
+![77769821080](CCalculus_Chapter11.assets/1777698210807.png)
+
+
+
+### 何时函数等于其泰勒级数?重要!
+
+![77769822947](CCalculus_Chapter11.assets/1777698229474.png)
+
+也就是说,在收敛半径里面,n->∞的时候,R(x)==0,那么f(x)=T(x);
+
+
+
+## 关键公式汇总
+
+![77769831747](CCalculus_Chapter11.assets/1777698317476.png)
+
+### 常见误区
+
+![77769832897](CCalculus_Chapter11.assets/1777698328977.png)
+
+
+
+## 泰勒不等式
+
+![77769894139](CCalculus_Chapter11.assets/1777698941393.png)
+
+##### 说人话:![77769914331](CCalculus_Chapter11.assets/1777699143312.png)
+
+### 泰勒不等式的真正作用
+
+
+
+![77769917748](CCalculus_Chapter11.assets/1777699177486.png)
+
+## 重要极限!!!!!(用于证明余项趋于0)
+
+![77769978529](CCalculus_Chapter11.assets/1777699785297.png)
+
+
+
+### 例题!!!重要!
+
+![77769980362](CCalculus_Chapter11.assets/1777699803626.png)
+
+![77770099171](CCalculus_Chapter11.assets/1777700991718.png)
+
+夹逼定理!夹逼定理是那座桥梁!!!
+
+![77770103923](CCalculus_Chapter11.assets/1777701039236.png)
+
+
+
+#### 小例题
+
+![77770105851](CCalculus_Chapter11.assets/1777701058518.png)
+
+### 例题sinx 的麦克劳林级数
+
+![77770115650](CCalculus_Chapter11.assets/1777701156501.png)
+
+
+
+### 证明:sinx 等于其麦克劳林级数（对所有 x）
+
+![77770118449](CCalculus_Chapter11.assets/1777701184497.png)
+
+
+
+## 二项式级数
+
+### 定理
+
+![77770122064](CCalculus_Chapter11.assets/1777701220647.png)
+
+### 收敛条件
+
+![77770123889](CCalculus_Chapter11.assets/1777701238891.png)
+
+
+
+#### 例题:找到它的麦克劳林级数和收敛半径
+
+![77770134931](CCalculus_Chapter11.assets/1777701349314.png)
+
+
+
+![77770140755](CCalculus_Chapter11.assets/1777701407559.png)
+
+![77770183730](CCalculus_Chapter11.assets/1777701837307.png)
+
+
+
+
+
+
+
+## 重要的麦克劳林级数公式
+
+![77770204222](CCalculus_Chapter11.assets/1777702042225.png)
+
+
+
+
+
+## **用麦克劳林级数计算无法用初等函数表示的积分**，并用级数进行数值近似
+
+### 例题
+
+![77770212877](CCalculus_Chapter11.assets/1777702128771.png)
+
+![77770213861](CCalculus_Chapter11.assets/1777702138614.png)
+
+![77770216652](CCalculus_Chapter11.assets/1777702166526.png)
+
+
+
+#### 又例
+
+![77770227309](CCalculus_Chapter11.assets/1777702273094.png)
+
+![77770230990](CCalculus_Chapter11.assets/1777702309905.png)
+
+![77770233971](CCalculus_Chapter11.assets/1777702339718.png)
+
+![77770235110](CCalculus_Chapter11.assets/1777702351106.png)
+
+![77770235714](CCalculus_Chapter11.assets/1777702357142.png)
 
