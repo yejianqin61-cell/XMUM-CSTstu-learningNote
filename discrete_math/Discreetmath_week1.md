@@ -72,11 +72,11 @@ p →q is the statement “If p, then q”.
 
 
 
-### 1. pp implies qq（p 蕴含 q）
+### 1. p implies q（p 蕴含 q）
 
 - 最直接的表达，就是“如果 p 为真，那么 q 也必须为真”。
 
-### 2. pp only if qq（p 仅当 q）
+### 2. p only if q（p 仅当 q）
 
 - 这是一个容易混淆的表达。
   “p only if q” 意思是：**如果 p 发生了，那么 q 一定已经发生了**。也就是说，p 为真的前提是 q 必须为真。这等价于 p→qp→q。
@@ -84,11 +84,11 @@ p →q is the statement “If p, then q”.
 
 
 
-### 3. qq if pp（q 如果 p）
+### 3. q if p（q 如果 p）
 
 - 这是最直接的“如果 p，则 q”的另一种语序。
 
-### 4. qq whenever pp（每当 p，则 q）
+### 4. q whenever p（每当 p，则 q）
 
 - 强调时间或条件上的伴随关系：只要 p 出现，q 就会伴随出现。
 

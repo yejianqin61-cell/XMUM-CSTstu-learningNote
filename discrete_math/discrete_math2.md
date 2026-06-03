@@ -194,7 +194,7 @@ The Order of Quantifiers
 
 but
 
-∀x,∃y,P(x,y)≢∃y,∀x,P(x,y).
+∀x,∃y,P(x,y)≢ ∃y,∀x,P(x,y).
 
 - 同种量词交换顺序等价。
 - 不同种量词交换顺序不等价。
